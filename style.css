@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+img {
+    width: 600px;
+    height: 500px; 
+    /* border-radius: 20%;  */
+    margin-top: 20px; 
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+   
+
+.contact-info li {
+    margin-bottom: 10px;
+    color: goldenrod;
+}
+
